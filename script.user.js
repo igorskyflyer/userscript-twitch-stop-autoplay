@@ -6,7 +6,7 @@
 // @author       igorskyflyer
 // @date         2026-01-28
 // @match        https://twitch.tv/
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=twitch.tv
 // @run-at       document-idle
 // @grant        none
 // @license      GPL-3.0-or-later
