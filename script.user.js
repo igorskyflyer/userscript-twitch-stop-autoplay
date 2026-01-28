@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name
+// @name         Twitch - Stop Auto-play on Homepage
 // @namespace    https://greasyfork.org/users/1002054-igorskyflyer
 // @version      v1.0.0
 // @description  🛑 Prevents intrusive videos from auto-playing on the Twitch.tv homepage. 📺
