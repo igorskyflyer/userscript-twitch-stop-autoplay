@@ -32,8 +32,31 @@
 
 <br>
 
-## 📜 License
+## 📝 Changelog
+
+📑 The changelog is available here, [CHANGELOG.md](https://github.com/igorskyflyer/userscript-twitch-stop-autoplay/blob/main/CHANGELOG.md).
+
+<br>
+
+## 🪪 License
+
 Licensed under the [**GPL-3.0-or-later**](https://github.com/igorskyflyer/userscript-twitch-stop-autoplay/blob/main/LICENSE).
+
+<br>
+
+## 💖 Support
+
+<div align="center">
+  I work hard for every project, including this one and your support means a lot to me!
+  <br>
+  Consider buying me a coffee. ☕
+  <br>
+  <br>
+  <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Donate to igorskyflyer" width="180" height="46"></a>
+  <br>
+  <br>
+  <em>Thank you for supporting my efforts!</em> 🙏😊
+</div>
 
 ---
 
