@@ -1,21 +1,15 @@
 // ==UserScript==
 // @name         Twitch - Stop Auto-play on Homepage
 // @namespace    https://greasyfork.org/users/1002054-igorskyflyer
-// @version      v1.0.1
+// @version      1.0.2
 // @description  🛑 Prevents intrusive videos from auto-playing on the Twitch.tv homepage. 📺
 // @author       igorskyflyer
-// @date         2026-01-29
 // @match        https://www.twitch.tv/
 // @match        https://twitch.tv/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitch.tv
 // @run-at       document-idle
 // @grant        none
 // @license      GPL-3.0-or-later
-// @compatible   chrome
-// @compatible   firefox
-// @compatible   opera
-// @compatible   safari
-// @compatible   edge
 // @homepageURL  https://github.com/igorskyflyer/userscript-twitch-stop-autoplay
 // @supportURL   https://greasyfork.org/users/1002054-igorskyflyer
 // ==/UserScript==
